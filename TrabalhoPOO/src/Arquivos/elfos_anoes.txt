@@ -1,9 +1,0 @@
-1 Guardiao 60 50 Sim
-1 2Guardiao 40 30 Não 
-1 3Guardiao 40 30 Não 
-1 4Guardiao 40 30 Não 
-1 5Guardiao 40 30 Não 
-1 6Guardiao 40 30 Não 
-1 7Guardiao 40 30 Não 
-1 8Guardiao 40 30 Não 
-1 9Guardiao 40 30 Não 

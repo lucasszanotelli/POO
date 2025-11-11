@@ -1,3 +1,0 @@
-2 ReiGoblin 30 70
-1 Goblin 50 150
-1 1Goblin 50 150
